@@ -25,4 +25,4 @@ To run the Jupyter Notebook:
 - Clone the repository to your local machine.
 - Install Jupyter Notebook if you haven't already (pip install jupyterlab).
 - Navigate to the project directory and run jupyter notebook.
-- Open the notebook file (Ethiopian_Business_Data_Analysis.ipynb) and execute the cells.
+  - Take a note of the libraries and make sure to install them. It's standard fare (Pandas) for now.
