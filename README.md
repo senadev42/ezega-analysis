@@ -4,7 +4,11 @@ A few months ago a friend of mine, [Kidus](https://github.com/kidesleo), decided
 
 Finally have time now, and while doing data analysis with clean datasets taken off the internet has been fun, it's not time to work with something dirty and real.
 
-### Overview
+Note: If you just want to look at it and not clone and play with it, then just check it out [here](https://nbviewer.org/github/senadev42/ezega-analysis/blob/main/Ezega%20Dataset%20Analysis%20-%20The%20Scenic%20Route.ipynb).
+
+<hr>
+
+#### Overview
 
 The dataset contains the following columns:
 
@@ -17,12 +21,3 @@ The dataset contains the following columns:
 - ezega_url: URL from Ezega website.
 - category: Category of the business.
 - sub_category: Sub-category of the business.
-
-
-### Usage
-To run the Jupyter Notebook:
-
-- Clone the repository to your local machine.
-- Install Jupyter Notebook if you haven't already (pip install jupyterlab).
-- Navigate to the project directory and run jupyter notebook.
-  - Take a note of the libraries and make sure to install them. It's standard fare (Pandas) for now.
